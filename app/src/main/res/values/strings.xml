@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">adasam_oblig1</string>
+    <string name="button_one">Sjekk om palindrom</string>
+    <string name="button_two">Videre til neste aktivitet</string>
+    <string name="input">Skriv inn</string>
+    <string name="blank"> </string>
+    <string name="palindrom">PALINDROM</string>
+    <string name="ikkePalindrom">IKKE PALIDROM</string>
+
+    <string name="konverter"> Konverter til liter (L)</string>
+    <string name="input_tall">Skriv inn et volum</string>
+    <string name="feilMld">Det ble ikke registrert et volum. Venligst skriv inn et volum.</string>
+    <string name="liter"> L </string>
+
+    <string-array name="maale_enheter">
+        <item>Fluid ounce (fl oz)</item>
+        <item>Cup (cp)</item>
+        <item>Gallon (gal)</item>
+        <item>Hogshead</item>
+    </string-array>
+
+    <string name="quiz">QUIZ</string>
+    <string name="fakta">Fakta</string>
+    <string name="fleip">Fleip</string>
+
+    <string name="poengStart">Poeng: </string>
+    <string name="maxPoeng"> /3 </string>
+    <string name="poeng"> Poeng: 0/3 </string>
+    <string name="ferdig"> FERDIG!</string>
+    <string name="praavIgjen"> Prøv igjen</string>
+
+
+</resources>
